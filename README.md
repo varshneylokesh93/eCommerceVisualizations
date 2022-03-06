@@ -1,4 +1,5 @@
-# Tableau visualisation of historical sales data for an e-commerce website
+# Tableau visualisation of historical sales data for an e-commerce website 
+# This was a part of Business Analytics course at UOL.
 
 I have analyzed historical sales dataset to understand and project online sales of our
 business around the world. The company spans 13 different regions with overall revenue of $12.64M
